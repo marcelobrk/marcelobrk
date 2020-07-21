@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Silva!</h1>
 <h3 align="center">Crio algumas coisas úteis e outras inúteis, javascript é vida :-)</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelobrk" alt="marcelobrk" /> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/marcelobrk](github.com/marcelobrk)
 
